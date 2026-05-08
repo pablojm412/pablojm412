@@ -21,3 +21,14 @@ Soy un apasionado por la tecnología, **Técnico Mecánico** y actualmente **Est
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]((https://www.instagram.com/maldonado.pabloj/))
 
 ---
+## 🎮 Intereses y Hobby
+* **Gaming:** Jugador casual. Me encantan los desafíos de alta dificultad, tanto en móviles como en PC (especialmente RPGs y Survival).
+* **Música:** Fanático del Hip-Hop y Trap. El buen beat es el mejor compañero para programar.
+* **Mate:** Siempre con un buen mate al lado para mantener el foco.
+
+## 📊 Mis Estadísticas de GitHub
+Aquí podés ver un resumen de mi actividad y los lenguajes que más utilizo:
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pablojm412&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pablojm412&layout=compact&theme=tokyonight&hide_border=true)
